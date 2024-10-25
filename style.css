@@ -3,6 +3,7 @@ body {
     justify-content: center;
     background-color: #cbdceb;
     padding: 20px;
+    justify-self: center;
 }
 
 header {
