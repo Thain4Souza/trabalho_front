@@ -8,6 +8,7 @@ body {
 header {
     background-color: #608bc1;
     padding: 20px;
+    width: 100%;
 }
 
 nav {
