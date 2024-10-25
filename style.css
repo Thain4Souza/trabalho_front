@@ -1,42 +1,53 @@
 body {
     font-family: 'Times New Roman', Times, serif;
     justify-content: center;
+    background-color: #cbdceb;
+    padding: 20px;
 }
 
 .header {
     font-size: medium;
     text-align: center;
     font-family:'Times New Roman', Times, serif;
+    background-color: #608bc1;
+    padding: 20px;
 }
 
 .nav {
     justify-content: flex-start;
+    padding: 20px;
 }
 
 .main {
     font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
 }
 
 .bem-vendo {
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
+    padding: 20px;
 }
 
 .sobre-nos {
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
+    padding: 20px;
 }
 
 .servicos {
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
+    padding: 20px;
 }
 
 .contatos {
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
+    padding: 20px;
 }
 
 .footer {
     text-align: center;
+    padding: 20px;
 }
