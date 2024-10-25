@@ -3,7 +3,6 @@ body {
     justify-content: center;
     background-color: #cbdceb;
     padding: 20px;
-    justify-self: center;
     text-align: center;
 }
 
@@ -17,6 +16,7 @@ header {
 nav {
     justify-content: flex-start;
     padding: 20px;
+    text-align: center;
 }
 
 main {
